@@ -1,7 +1,10 @@
 # 💫About Me :
 🎓 Nguyễn Minh Hiếu, IT-E6 K68 HUST
+
 🎮 League Of Legends, Teamfight Tactics
+
 🛠 Having interest in frontend developer, full-stack developer, embedded system
+
 🌍 Tiếng Việt, 日本語
 
 ## 🌐Socials
